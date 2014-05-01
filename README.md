@@ -5,4 +5,5 @@ The randmst application generates a fully connected graph in two, three, or four
 The command line arguments are as follows: $ java -jar randmst.jar 0 numpoints numtrials dimension
 
 The output is as follows: average numpoints numtrials dimension
+
 Average is the average total weight of all the generated minimum spanning trees.
